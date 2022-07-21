@@ -3,17 +3,17 @@
     "description": "Eliminatórias da Copa 2022",
     "localization": {
       "name": "Maracanã",
-      "image": "TODO"
+      "image": "https://diariodorio.com/wp-content/uploads/2021/11/Maracana.jpg"
     },
     "home-team": {
-      "name": "Brazil",
+      "name": "Brasil",
       "power": 5,
-       "image": "TODO"
+       "image": "https://static7.depositphotos.com/1004841/738/i/600/depositphotos_7381892-stock-photo-flag-of-brazil.jpg"
     },
     "away-team": {
       "name": "Argentina",
-      "power": 3,
-       "image": "TODO"
+      "power": 4,
+       "image": "https://img.besthqwallpapers.com/Uploads/23-8-2017/19117/argentinian-flag-argentina-south-america-silk-flag-of-argentina.jpg"
     }
   }
 ]
